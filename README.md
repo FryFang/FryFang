@@ -20,6 +20,8 @@ Outside of the serious stuff, I am a 🐱 and 🐶 dad, an aviation geek, a Form
 ### 〰 System Design & Beam Physics Modeling
 - Beam transport and accelerator simulations with:
   - Field Precision
+  - IBSimu
+  - Warp/WarpX
   - COSY INFINITY
   - COMSOL
   - Elegant
