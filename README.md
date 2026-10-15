@@ -29,7 +29,7 @@ Outside of the serious stuff, I am a 🐱 and 🐶 dad, an aviation geek, a Form
   - Recoil separators in inverse kinematics
   - High-intensity Low Energy Beam Transport (LEBT) systems
   - ±20 kV pulsed high-voltage deflectors (Beam Chopper)
-  - 66.1 MHz RF Beam Modulator
+  - 66.1 MHz RF Beam Modulator (Beam Modulator)
   - Active and Passive beam diagnostics ranging from mass spectrometer and high power slits
   - ECR positive ion source extraction design
 
@@ -38,8 +38,10 @@ Outside of the serious stuff, I am a 🐱 and 🐶 dad, an aviation geek, a Form
   - Ultra-high vacuum systems
   - Cryogenic systems
   - High voltage (>100 kV) systems
+  - Pulsed power system
   - Process Cooling Water and Gas systems
 - Controls and graphical user interface development with:
+  - Machine learning accelerator beam tuning (Bayesian Optimization)
   - LabVIEW
   - EPICS
   - Phoebus
